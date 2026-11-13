@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deaththegrim.github.io/academie-sufletelor-lore/sitemap.xml
